@@ -1,0 +1,20 @@
+Map<String, String> english = {
+  "welcome": "Hello World 😉...",
+  "welcomeInfo":
+      "Your application will be developed using a design pattern called Clean Architecture, supported by the Getx state manager.",
+  "noConnection": "No internet connection",
+  "timeError": "Execution time exceeded",
+  "requestErrorTryAgain": "Request error, retry!",
+  "noContent": "No content",
+  "internalError": "Server error",
+  "cropImage": "Crop Image",
+  "noImageTake": "Error during image capture, please retry!",
+  "deviceError": "Device error",
+  "unknownError": "Unknown error",
+  "alertUpdate": "Alert",
+  "updateAvailable": "New update, please Download it",
+  "updateIsDownloading": "Downloading....",
+  "restartApp": "Restart the app completely",
+  "downloadingError": "An error occurred while downloading the update.",
+  "reDownloadItPlease": "Please re-download",
+};
