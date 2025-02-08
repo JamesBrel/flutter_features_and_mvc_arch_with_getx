@@ -1,4 +1,4 @@
-# Flutter Mobile : Clean and Modular Architecture
+# Flutter Mobile : MVC And Feature Architecture
 
 ### Author : James Brel
 
